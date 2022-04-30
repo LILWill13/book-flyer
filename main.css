@@ -43,6 +43,6 @@ article {
 #bookcover img{
     /* transform: rotate(-40deg); */
     border: 2px solid rgb(255, 225, 0);
-    width:70vw;
+    width:30vw;
     box-shadow: 0px 0px 50px black
 }
